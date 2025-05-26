@@ -1,0 +1,51 @@
+Project Planning & Setup – 2 Days
+
+Requirements finalization
+Database schema (MCD)
+Class diagram
+Tech stack setup (frontend, backend, DB, file structure)
+
+Authentication & User Management – 2 Days
+
+User & Admin registration/login
+Role-based access (JWT)
+Admin panel routing
+
+Vehicle Browsing (Frontend + Backend) – 2 Days
+
+Browse vehicle categories
+Advanced filters: type, price, city, agency, dates
+
+Booking System – 3 Days
+
+Booking form with pickup/drop-off + calendar
+Store booking in DB
+Booking availability check logic
+
+Rental Contract in PDF – 1 Day
+
+Generate contract with booking & vehicle info
+Download functionality (PDFKit or jsPDF)
+
+Rating & Review System – 1 Day
+
+Leave review after return
+Average ratings per vehicle
+
+Booking History – 1 Day
+
+User view: past & active bookings
+Admin view: history per user
+
+Admin: Vehicle Management – 2 Days
+
+CRUD for vehicles (images, availability, condition)
+Upload image to cloud or local serve
+
+Admin: Statistics + Graphs – 2 Days
+
+Charts for:
+Most rented vehicles
+Income over time
+Ratings
+Use Chart.js, Recharts, or ApexCharts

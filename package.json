@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dinushka114/locatrip-backend/issues"
   },
-  "homepage": "https://github.com/dinushka114/locatrip-backend#readme"
+  "homepage": "https://github.com/dinushka114/locatrip-backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
